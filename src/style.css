@@ -125,13 +125,13 @@ footer {
 
 footer > img {
     height: 80%;
-    margin-left: 10%;
+    margin-left: 50%;
 }
 
 footer > p {
     font-family: VT323, monospace;
     color: whitesmoke;
     font-size: 50px;
-    margin-left: 60px;
+    margin-left: 70px;
 }
 
