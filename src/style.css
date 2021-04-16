@@ -113,3 +113,25 @@ header > p {
   font-size: 25px;
   text-align: cen
 }
+
+footer {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    background: #6441A5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #01013d, #6766a1);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #01013d, #6766a1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+footer > img {
+    height: 80%;
+    margin-left: 10%;
+}
+
+footer > p {
+    font-family: VT323, monospace;
+    color: whitesmoke;
+    font-size: 50px;
+    margin-left: 60px;
+}
+
