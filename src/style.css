@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background-color: whitesmoke;
+    background-color: tan;
 }
 
 header {
@@ -36,6 +36,7 @@ header > p {
 
 .meme > img {
     width: 100%;
+    border-radius: 25px;
 }
 
 .meme > h2 {
@@ -61,6 +62,7 @@ header > p {
         0 -2px 0 #000,
         -2px 0 0 #000,
         2px 2px 5px #000;
+    
 }
 
 .meme > .bottom {
@@ -81,6 +83,7 @@ header > p {
 .meme-form > input {
     width: 45%;
     height: 40px;
+    border-radius: ;
 }
 
 .meme-form > button {
