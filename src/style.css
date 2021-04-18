@@ -18,14 +18,14 @@ header {
 
 header > img {
     height: 80%;
-    margin-left: 10%;
+    margin: auto;
 }
 
 header > p {
     font-family: VT323, monospace;
     color: whitesmoke;
     font-size: 50px;
-    margin-left: 60px;
+    margin: auto;
 }
 
 .meme {
@@ -93,7 +93,9 @@ header > p {
     font-size: 25px;
     letter-spacing: 1.5px;
     color: white;
-    background: #040486;
+    background: #21da08;
+    
+   
 }
 
 .meme-form > input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
@@ -137,4 +139,5 @@ footer > p {
     font-size: 50px;
     margin: auto
 }
+
 

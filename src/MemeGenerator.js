@@ -57,7 +57,7 @@ class MemeGenerator extends Component {
             onChange={this.handleChange}
           />
 
-          <button>Gen</button>
+          <button className="genButton">Gen</button>
         </form>
 
         <div className="meme">
